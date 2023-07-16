@@ -23,3 +23,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Website - https://github.com/TANJIRWEBDEV
 - Frontend Mentor - https://www.frontendmentor.io/profile/TANJIRWEBDEV
+- Twitter - https://twitter.com/TanWevDev
